@@ -1,0 +1,421 @@
+Chain B:
+Residue 1:
+	Phi = None
+	Psi = -3.10 degrees
+Residue 2:
+	Phi = -95.00 degrees
+	Psi = 160.90 degrees
+Residue 3:
+	Phi = -65.23 degrees
+	Psi = -42.88 degrees
+Residue 4:
+	Phi = -60.37 degrees
+	Psi = -44.28 degrees
+Residue 5:
+	Phi = -68.57 degrees
+	Psi = -45.75 degrees
+Residue 6:
+	Phi = -46.36 degrees
+	Psi = -59.55 degrees
+Residue 7:
+	Phi = -59.35 degrees
+	Psi = -44.27 degrees
+Residue 8:
+	Phi = -67.53 degrees
+	Psi = -45.80 degrees
+Residue 9:
+	Phi = -55.51 degrees
+	Psi = -42.28 degrees
+Residue 10:
+	Phi = -65.43 degrees
+	Psi = -40.00 degrees
+Residue 11:
+	Phi = -58.99 degrees
+	Psi = -45.22 degrees
+Residue 12:
+	Phi = -63.49 degrees
+	Psi = -41.19 degrees
+Residue 13:
+	Phi = -75.23 degrees
+	Psi = -39.02 degrees
+Residue 14:
+	Phi = -62.42 degrees
+	Psi = -37.63 degrees
+Residue 15:
+	Phi = -64.61 degrees
+	Psi = -42.50 degrees
+Residue 16:
+	Phi = -55.32 degrees
+	Psi = -48.11 degrees
+Residue 17:
+	Phi = -59.45 degrees
+	Psi = -27.23 degrees
+Residue 18:
+	Phi = -96.60 degrees
+	Psi = 1.68 degrees
+Residue 19:
+	Phi = -83.60 degrees
+	Psi = 154.26 degrees
+Residue 20:
+	Phi = -67.41 degrees
+	Psi = -36.07 degrees
+Residue 21:
+	Phi = -56.51 degrees
+	Psi = -45.33 degrees
+Residue 22:
+	Phi = -67.38 degrees
+	Psi = -44.79 degrees
+Residue 23:
+	Phi = -62.99 degrees
+	Psi = -32.49 degrees
+Residue 24:
+	Phi = -82.34 degrees
+	Psi = -1.63 degrees
+Residue 25:
+	Phi = 80.07 degrees
+	Psi = 22.75 degrees
+Residue 26:
+	Phi = -63.89 degrees
+	Psi = -34.94 degrees
+Residue 27:
+	Phi = -148.93 degrees
+	Psi = 158.78 degrees
+Residue 28:
+	Phi = -118.22 degrees
+	Psi = 160.70 degrees
+Residue 29:
+	Phi = -133.61 degrees
+	Psi = 134.48 degrees
+Residue 30:
+	Phi = -137.24 degrees
+	Psi = 143.67 degrees
+Residue 31:
+	Phi = -71.71 degrees
+	Psi = 150.08 degrees
+Residue 32:
+	Phi = -95.84 degrees
+	Psi = 117.15 degrees
+Residue 33:
+	Phi = 47.00 degrees
+	Psi = 50.92 degrees
+Residue 34:
+	Phi = 60.97 degrees
+	Psi = 5.91 degrees
+Residue 35:
+	Phi = -74.18 degrees
+	Psi = 126.87 degrees
+Residue 36:
+	Phi = -67.04 degrees
+	Psi = -19.71 degrees
+Residue 37:
+	Phi = -98.58 degrees
+	Psi = 5.45 degrees
+Residue 38:
+	Phi = -146.18 degrees
+	Psi = 114.86 degrees
+Residue 39:
+	Phi = -121.59 degrees
+	Psi = 144.82 degrees
+Residue 40:
+	Phi = -96.21 degrees
+	Psi = 123.52 degrees
+Residue 41:
+	Phi = -118.70 degrees
+	Psi = 122.35 degrees
+Residue 42:
+	Phi = -101.13 degrees
+	Psi = 121.68 degrees
+Residue 43:
+	Phi = -85.53 degrees
+	Psi = 113.17 degrees
+Residue 44:
+	Phi = -107.77 degrees
+	Psi = -7.40 degrees
+Residue 45:
+	Phi = -140.06 degrees
+	Psi = 60.55 degrees
+Residue 46:
+	Phi = -70.99 degrees
+	Psi = 145.38 degrees
+Residue 47:
+	Phi = -36.53 degrees
+	Psi = 115.09 degrees
+Residue 48:
+	Phi = -67.30 degrees
+	Psi = -15.13 degrees
+Residue 49:
+	Phi = -87.66 degrees
+	Psi = -1.11 degrees
+Residue 50:
+	Phi = -87.66 degrees
+	Psi = 144.72 degrees
+Residue 51:
+	Phi = -59.30 degrees
+	Psi = -30.28 degrees
+Residue 52:
+	Phi = -54.91 degrees
+	Psi = -46.16 degrees
+Residue 53:
+	Phi = -59.27 degrees
+	Psi = -43.49 degrees
+Residue 54:
+	Phi = -59.97 degrees
+	Psi = -44.93 degrees
+Residue 55:
+	Phi = -54.59 degrees
+	Psi = -43.24 degrees
+Residue 56:
+	Phi = -64.02 degrees
+	Psi = -28.18 degrees
+Residue 57:
+	Phi = -70.26 degrees
+	Psi = -37.62 degrees
+Residue 58:
+	Phi = -67.53 degrees
+	Psi = -43.87 degrees
+Residue 59:
+	Phi = -57.87 degrees
+	Psi = -39.53 degrees
+Residue 60:
+	Phi = -57.99 degrees
+	Psi = -45.39 degrees
+Residue 61:
+	Phi = -60.26 degrees
+	Psi = -46.55 degrees
+Residue 62:
+	Phi = -80.43 degrees
+	Psi = -30.49 degrees
+Residue 63:
+	Phi = -134.27 degrees
+	Psi = -13.88 degrees
+Residue 64:
+	Phi = 90.06 degrees
+	Psi = 0.49 degrees
+Residue 65:
+	Phi = -108.28 degrees
+	Psi = 125.54 degrees
+Residue 66:
+	Phi = -120.79 degrees
+	Psi = 18.25 degrees
+Residue 67:
+	Phi = -118.03 degrees
+	Psi = 166.35 degrees
+Residue 68:
+	Phi = -105.83 degrees
+	Psi = 128.80 degrees
+Residue 69:
+	Phi = -101.80 degrees
+	Psi = 126.46 degrees
+Residue 70:
+	Phi = -110.18 degrees
+	Psi = 144.05 degrees
+Residue 71:
+	Phi = -111.93 degrees
+	Psi = 123.24 degrees
+Residue 72:
+	Phi = -105.66 degrees
+	Psi = 125.61 degrees
+Residue 73:
+	Phi = -116.81 degrees
+	Psi = 123.40 degrees
+Residue 74:
+	Phi = -108.73 degrees
+	Psi = 158.87 degrees
+Residue 75:
+	Phi = -126.21 degrees
+	Psi = 171.96 degrees
+Residue 76:
+	Phi = -63.79 degrees
+	Psi = -13.78 degrees
+Residue 77:
+	Phi = -85.10 degrees
+	Psi = -3.61 degrees
+Residue 78:
+	Phi = -65.18 degrees
+	Psi = 141.78 degrees
+Residue 79:
+	Phi = -95.69 degrees
+	Psi = 21.33 degrees
+Residue 80:
+	Phi = -80.11 degrees
+	Psi = -27.24 degrees
+Residue 81:
+	Phi = -116.11 degrees
+	Psi = 148.69 degrees
+Residue 82:
+	Phi = -68.15 degrees
+	Psi = 159.30 degrees
+Residue 83:
+	Phi = -68.31 degrees
+	Psi = 153.49 degrees
+Residue 84:
+	Phi = -88.30 degrees
+	Psi = 120.19 degrees
+Residue 85:
+	Phi = -117.10 degrees
+	Psi = 134.15 degrees
+Residue 86:
+	Phi = -138.59 degrees
+	Psi = 152.19 degrees
+Residue 87:
+	Phi = -81.91 degrees
+	Psi = 120.72 degrees
+Residue 88:
+	Phi = -79.87 degrees
+	Psi = -48.91 degrees
+Residue 89:
+	Phi = -161.71 degrees
+	Psi = 153.15 degrees
+Residue 90:
+	Phi = -78.21 degrees
+	Psi = -176.32 degrees
+Residue 91:
+	Phi = -74.13 degrees
+	Psi = 128.67 degrees
+Residue 92:
+	Phi = -119.15 degrees
+	Psi = 145.39 degrees
+Residue 93:
+	Phi = -123.30 degrees
+	Psi = 133.04 degrees
+Residue 94:
+	Phi = 163.49 degrees
+	Psi = -174.49 degrees
+Residue 95:
+	Phi = -68.85 degrees
+	Psi = 149.88 degrees
+Residue 96:
+	Phi = 73.15 degrees
+	Psi = 6.00 degrees
+Residue 97:
+	Phi = -117.15 degrees
+	Psi = 132.34 degrees
+Residue 98:
+	Phi = -95.38 degrees
+	Psi = 171.58 degrees
+Residue 99:
+	Phi = -55.84 degrees
+	Psi = 138.42 degrees
+Residue 100:
+	Phi = 76.92 degrees
+	Psi = -8.15 degrees
+Residue 101:
+	Phi = 114.68 degrees
+	Psi = -4.12 degrees
+Residue 102:
+	Phi = -65.59 degrees
+	Psi = 138.06 degrees
+Residue 103:
+	Phi = -82.90 degrees
+	Psi = 139.41 degrees
+Residue 104:
+	Phi = -122.76 degrees
+	Psi = 109.24 degrees
+Residue 105:
+	Phi = -144.95 degrees
+	Psi = 150.21 degrees
+Residue 106:
+	Phi = -56.69 degrees
+	Psi = -41.49 degrees
+Residue 107:
+	Phi = -67.04 degrees
+	Psi = -20.22 degrees
+Residue 108:
+	Phi = -88.51 degrees
+	Psi = -2.52 degrees
+Residue 109:
+	Phi = -86.04 degrees
+	Psi = 157.41 degrees
+Residue 110:
+	Phi = -60.57 degrees
+	Psi = -37.24 degrees
+Residue 111:
+	Phi = -71.61 degrees
+	Psi = -37.94 degrees
+Residue 112:
+	Phi = -84.54 degrees
+	Psi = -19.39 degrees
+Residue 113:
+	Phi = -69.49 degrees
+	Psi = 150.31 degrees
+Residue 114:
+	Phi = -138.52 degrees
+	Psi = 140.97 degrees
+Residue 115:
+	Phi = -58.48 degrees
+	Psi = -14.58 degrees
+Residue 116:
+	Phi = -72.40 degrees
+	Psi = -15.45 degrees
+Residue 117:
+	Phi = -81.25 degrees
+	Psi = 143.95 degrees
+Residue 118:
+	Phi = -92.86 degrees
+	Psi = 153.67 degrees
+Residue 119:
+	Phi = -73.07 degrees
+	Psi = -29.07 degrees
+Residue 120:
+	Phi = -62.22 degrees
+	Psi = -37.83 degrees
+Residue 121:
+	Phi = -66.77 degrees
+	Psi = -43.20 degrees
+Residue 122:
+	Phi = -59.25 degrees
+	Psi = -50.26 degrees
+Residue 123:
+	Phi = -54.65 degrees
+	Psi = -48.64 degrees
+Residue 124:
+	Phi = -68.76 degrees
+	Psi = -33.39 degrees
+Residue 125:
+	Phi = -67.28 degrees
+	Psi = -38.65 degrees
+Residue 126:
+	Phi = -59.90 degrees
+	Psi = -47.97 degrees
+Residue 127:
+	Phi = -52.98 degrees
+	Psi = -52.69 degrees
+Residue 128:
+	Phi = -62.05 degrees
+	Psi = -44.32 degrees
+Residue 129:
+	Phi = -64.84 degrees
+	Psi = -32.54 degrees
+Residue 130:
+	Phi = -64.35 degrees
+	Psi = -41.15 degrees
+Residue 131:
+	Phi = -69.27 degrees
+	Psi = -47.80 degrees
+Residue 132:
+	Phi = -55.07 degrees
+	Psi = -39.76 degrees
+Residue 133:
+	Phi = -81.36 degrees
+	Psi = 9.88 degrees
+Residue 134:
+	Phi = 48.97 degrees
+	Psi = 45.68 degrees
+Residue 135:
+	Phi = -61.21 degrees
+	Psi = 149.12 degrees
+Residue 136:
+	Phi = -137.23 degrees
+	Psi = 157.76 degrees
+Residue 137:
+	Phi = -79.98 degrees
+	Psi = 131.45 degrees
+Residue 138:
+	Phi = -91.21 degrees
+	Psi = 106.01 degrees
+Residue 139:
+	Phi = -78.64 degrees
+	Psi = -27.40 degrees
+Residue 140:
+	Phi = -0.12 degrees
+	Psi = None
